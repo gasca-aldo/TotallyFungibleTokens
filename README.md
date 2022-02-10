@@ -1,0 +1,2 @@
+# TotallyFungibleTokens
+NFT oposite 
